@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Boas vindas ao meu perfil 💙💙
+Meu nome é Isabela 
+
+Estou estudando na [Alura](www.alura.com.be)
+
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+
+
+00001109625753sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/_t6rRbfUL1kAAAAC/family.gif)
+
+@aluraestudante
